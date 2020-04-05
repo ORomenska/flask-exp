@@ -1,0 +1,1 @@
+This project consists of nginx server as proxy and uwcgi server 
